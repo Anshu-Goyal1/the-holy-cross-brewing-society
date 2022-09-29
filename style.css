@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  font: 500 1rem/1.25 sohne, Helvetica, Arial, sans-serif;
+}
+h5 {
+  font-family: "McLaren", cursive;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.title-image {
+    width: 20%;
+    /*  transform: rotate(25deg);*/
+    position: absolute;
+    right: 30%;
+  }
+  #title .container-fluid {
+    padding: 1% 9% 7%;
+  }
+
+.logo-image {
+  width: 60%;
+}
+
+.direction-button{
+    margin: 7% 0% 7% 0;
+}
+.cream-section {
+  background-color: #d1c5b6;
+}
+.dark-section {
+  background-color: #000000;
+  color: #fff;
+
+}
+
+
+.carousel-image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+ width: 50%;
+ 
+}
+.container-fluid{
+  object-fit: cover;
+  padding: 5% 9%;
+}
+
